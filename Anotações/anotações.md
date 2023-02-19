@@ -8,4 +8,7 @@ export componente () {
 ...
 import { Componente } from './Caminho'
 ```
-
+### Rodar Projeto
+```
+npm run dev
+```
